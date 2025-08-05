@@ -1,0 +1,3 @@
+[submodule "pAbout"]
+	path = pAbout
+	url = https://github.com/CarbonMaster/pAbout.git
