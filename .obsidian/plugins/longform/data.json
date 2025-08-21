@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "scenario/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2025-08-21T17:37:30.722Z",
+      "total": 0,
+      "drafts": {
+        "scenario/Index.md": {
+          "total": 0,
+          "scenes": {
+            "templateScene": 0
+          }
+        },
+        "pAbout/scenario/Index.md": {
+          "total": 0,
+          "scenes": {
+            "templateScene": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-07-30T20:07:22.503Z",
+      "total": 0,
+      "drafts": {
+        "Untitled/scenario/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "scenario/Index.md": {
+          "total": 0,
+          "scenes": {
+            "templateScene": 0
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 3,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}
