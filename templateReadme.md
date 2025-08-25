@@ -9,8 +9,14 @@ Also there are a few files/folders, You shouldn't tamper with, unless You unders
 - .gitignore - FIle for files/folders to be ignored, for git version control
 - .gitmodules - Modules added within this template plus whatever You added via git to a specific project, made with this template
 - LICENCE - File containing some law stuff. Not interesting.
-- .hash - File with specific string, to enable zaWarudo's management possible. When creating a project, delete it from copied template.
+- .hash - File with specific string, to enable zaWarudo's management possible. When creating a project, delete it from copied template, or You will encounter some problems.
 - templateReadme.md - This file. It's a readme.
 - .obsidian - Folder for obsidian program. Shouldn't be directly tampered with, unless for personalisation.
+
+
+Inside pAbout:
+- Scenario - idk
+- aboutProject - general data about project
+- startup - what software/hardware do You need, to run the project properly
 
 If You don't get it, look inside, for more information.

@@ -6,6 +6,18 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-08-25T15:37:36.540Z",
+      "total": 0,
+      "drafts": {
+        "pAbout/scenario/Index.md": {
+          "total": 0,
+          "scenes": {
+            "templateScene": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2025-08-21T17:37:30.722Z",
       "total": 0,
       "drafts": {
