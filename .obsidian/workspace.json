@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4cbc841f9c0dc3a",
+        "id": "3ee3686927603177",
         "type": "tabs",
         "children": [
           {
-            "id": "69e3edc5e98f9eac",
+            "id": "6a4189d4769302c9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,11 +195,13 @@
       "task-board:Open task board": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "89339ae32b7f0782",
   "lastOpenFiles": [
+    "main/_about.md",
     "pAbout/TODO.md",
     "pAbout/todoList.md",
     "templateReadme.md",
@@ -207,7 +209,6 @@
     "pAbout/startup",
     "pAbout/Nowy folder",
     "pAbout/startup.md",
-    "main/_about.md",
     "pAbout/_about.md",
     "main/TODO.md",
     "pAbout/TODO — kopia.md",

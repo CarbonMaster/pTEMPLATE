@@ -169,6 +169,10 @@
         "tags": {
           "polarity": 3,
           "values": []
+        },
+        "frontMatter": {
+          "polarity": 3,
+          "values": []
         }
       },
       "firstDayOfWeek": "Mon",
@@ -266,7 +270,7 @@
       "archivedTasksFilePath": "",
       "showFileNameInCard": false,
       "showFrontmatterTagsOnCards": false,
-      "tasksCacheFilePath": "",
+      "tasksCacheFilePath": ".obsidian/plugins/task-board/tasks.json",
       "notificationService": "none",
       "frontmatterPropertyForReminder": "reminder",
       "actions": [
