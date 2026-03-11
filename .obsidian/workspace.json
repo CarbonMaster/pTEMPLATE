@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "dde0b6970826aa3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "67502de3aabdb159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e216be2588dc6fe",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "pAbout/scenario/roadmap/Roadmap general.canvas",
+                "viewState": {
+                  "x": -506,
+                  "y": 474,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Roadmap general"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd35470d4f857131",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a0c0ad03c64e4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89339ae32b7f0782",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
+            }
+          },
+          {
+            "id": "e6ae1d5b8c2d3e95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e17c08c04498c46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ec04328d9836640a",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6468ca18ee31e07d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee7ba2bb345c4281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f74a019153d576",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f4048ecfffaee381",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "db07a8f0f5d75302",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ed3ca7007bf19d3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "873a568ee51932af",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "c9f5d5248f9d94e1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false,
+      "obsidian-kanban:Create new board": false,
+      "task-board:Open task board": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "6e216be2588dc6fe",
+  "lastOpenFiles": [
+    "pAbout/scenario/roadmap/Roadmap general.canvas",
+    "pAbout/scenario/roadmap/Roadmap general.canvas",
+    "pAbout/startup/startup.md",
+    "pAbout/team/internal/teamList.md",
+    "pAbout/todoList.md",
+    "pAbout/scenario/Index.md",
+    "pAbout/TODO.md",
+    "LICENCE.md",
+    "templateReadme.md",
+    "pAbout/LICENCE.md",
+    "pAbout/Nowy folder/pAbout/TODO.md",
+    "pAbout/README.md",
+    "pAbout/aboutProject.md",
+    "pAbout/scenario/templateScene.md",
+    "pAbout/scenario/GUI.canvas",
+    "pAbout/scenario/roadmap/software",
+    "pAbout/scenario/roadmap/software/v1.0/alphas/v0.1/v0.1.canvas",
+    "pAbout/scenario/roadmap/software/v1.0/v1.0.canvas",
+    "pAbout/Roadmap.canvas",
+    "pAbout/LICENCE",
+    "pAbout/LICENSE.md",
+    "pAbout/startup",
+    "IMPORT/main/PRZEKŁADNIA/SOlid/CMS_Piasta_mod_v7/144029380-7-skf_bearing_61818-2rz_2/skf_bearing_61818-2rz_2_04.SLDPRT",
+    "IMPORT/main/PRZEKŁADNIA/SOlid/CMS_Piasta_mod_v7/144029380-7-skf_bearing_61818-2rz_2/skf_bearing_61818-2rz_2_05.SLDPRT",
+    "IMPORT/main/PRZEKŁADNIA/SOlid/CMS_Piasta_mod_v7/144029380-7-skf_bearing_61818-2rz_2/skf_bearing_61818-2rz_2_03.SLDPRT",
+    "IMPORT/main/PRZEKŁADNIA/SOlid/CMS_Piasta_mod_v7/144029380-7-skf_bearing_61818-2rz_2/skf_bearing_61818-2rz_2_02.SLDPRT",
+    "IMPORT/main/PRZEKŁADNIA/SOlid/CMS_Piasta_mod_v7/144029380-7-skf_bearing_61818-2rz_2/skf_bearing_61818-2rz_2_01.SLDPRT",
+    "IMPORT/main/PRZEKŁADNIA/SOlid/CMS_Piasta_mod_v7/144029380-7-skf_bearing_61818-2rz_2/skf_bearing_61818-2rz_2.txt",
+    "IMPORT/main/PRZEKŁADNIA/SOlid/CMS_Piasta_mod_v7/144029380-7-skf_bearing_61818-2rz_2/Kopia zapasowa  skf_bearing_61818-2rz_2_05.SLDPRT",
+    "IMPORT/templateReadme.md",
+    "IMPORT/pImport/Sources.md",
+    "IMPORT/pAbout/scenario/Index.md",
+    "IMPORT/pAbout/scenario/templateScene.md",
+    "IMPORT/pAbout/startup/startup.md",
+    "IMPORT/pAbout/todoList.md",
+    "IMPORT/pAbout/TODO.md",
+    "IMPORT/pAbout/Roadmap.canvas",
+    "IMPORT/pAbout/LICENCE.md",
+    "IMPORT/pAbout/aboutProject.md",
+    "IMPORT/main/PRZEKŁADNIA/Part Report/silnik.JPG",
+    "IMPORT/main/PRZEKŁADNIA/Part Report/przekladnia2.JPG",
+    "IMPORT/main/PRZEKŁADNIA/Part Report/hybryda2.JPG",
+    "IMPORT/main/PRZEKŁADNIA/Part Report/hybryda3.JPG",
+    "IMPORT/main/PRZEKŁADNIA/Part Report/piasta.JPG",
+    "IMPORT/main/PRZEKŁADNIA/Part Report/przekladnia.JPG",
+    "IMPORT/main/PRZEKŁADNIA/Part Report/hybryda1.JPG",
+    "IMPORT/main/PRZEKŁADNIA/MEDIA/1/241133569_4852457711442288_9063669553322066041_n.jpg",
+    "IMPORT/main/PRZEKŁADNIA/MEDIA/image.png",
+    "IMPORT/main/PRZEKŁADNIA/MEDIA/wheel-with-motor.webp",
+    "IMPORT/main/_about.md",
+    "pAbout/pAbout/todoList.md",
+    "pAbout/pAbout/todo.md"
+  ]
+}
